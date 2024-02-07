@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m5_react_w1d1/static/css/main.ee91c09c.css",
+    "main.js": "/m5_react_w1d1/static/js/main.a95d5bca.js",
+    "index.html": "/m5_react_w1d1/index.html",
+    "main.ee91c09c.css.map": "/m5_react_w1d1/static/css/main.ee91c09c.css.map",
+    "main.a95d5bca.js.map": "/m5_react_w1d1/static/js/main.a95d5bca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee91c09c.css",
+    "static/js/main.a95d5bca.js"
+  ]
+}
