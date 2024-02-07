@@ -1,6 +1,7 @@
 import "./formatHTMLQuiz.css";
 
-const FormatHTMLQuiz = ({ quiz }) => {
+const FormatHTMLQuiz = (props) => {
+  const {quiz} = props;
   return (
     <div className="card">
       <div className="question">
